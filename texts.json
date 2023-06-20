@@ -29,11 +29,11 @@
 
   "home": {
     "title_1": "10,000,000 $BOOM tokens airdrop",
-    "title_2": "Second title to display...",
-    "title_3": "Third title to display...",
-    "title_4": "Fourth title to display...",
+    "title_2": "The DAO for all games on ICP",
+    "title_3": "The hub of 100% on-chain games",
+    "title_4": "Only possible on the Internet Computer",
     "button": "Claim $BOOM airdrop",
-    "members_text": "Join registered members:",
+    "members_text": "Registered DAO members:",
     "spline": {
       "top": "Hey you!",
       "bottom": "Touch me"
@@ -42,24 +42,24 @@
 
   "mission": {
     "title": "Our mission",
-    "sub_title": "BOOM's three-fold mission is to power the next generation of fully on-chain games, drive mainstream adoption of the Internet Computer blockchain, and provide a collaborative hub for all things web3 gaming.",
+    "sub_title": "BOOM gaming DAO’s three-fold mission is to build the gaming vertical of the Internet Computer blockchain, power the next generation of fully on-chain games, and provide a collaborative hub for all things web3 gaming.",
     "card_1": {
-      "title": "Foster Collaboration in the On-Chain Gaming Community",
-      "text": "We are building an all-in-one collaborative hub where anyone involved in on-chain gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+      "title": "Showcase the Unique Capabilities of Internet Computer for Gaming",
+      "text": "We are committed to demonstrating the unique capabilities of the Internet Computer blockchain by pushing its gaming vertical, bringing the technology into the mainstream by exploding its vibrant gaming ecosystem."
     },
     "card_2": {
-      "title": "Foster Collaboration in the On-Chain Gaming Community",
-      "text": "We are building an all-in-one collaborative hub where anyone involved in on-chain gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+      "title": "Build the Foundational Infrastructure for On-Chain Gaming",
+      "text": "We are dedicated to developing the infrastructure that will power the next generation of fully on-chain games on ICP, creating new possibilities for gamers and developers alike."
     },
     "card_3": {
-      "title": "Foster Collaboration in the On-Chain Gaming Community",
-      "text": "We are building an all-in-one collaborative hub where anyone involved in on-chain gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+      "title": "Foster Collaboration in the ICP Gaming Community",
+      "text": "We are creating an all-in-one collaborative hub where anyone involved in ICP gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
     }
   },
 
   "tools": {
     "title": "Open-source tools",
-    "sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    "sub_title": "We embrace the spirit of collaboration and collective growth to foster network effects for game developers across the Internet Computer ecosystem. Everything we build will always be open-source: Game Launcher, World Engine, World Template, Unity Template, Tools, Standards, Examples, and more to come.",
     "type_1": "Standard",
     "type_2": "Tool",
     "more_button": "Show more",
@@ -68,8 +68,8 @@
 
   "launcher": {
     "title": "Game launcher",
-    "sub_title": "Amet minim mollit",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    "sub_title": "One-Stop Game Platform",
+    "text": "Shorten game development timelines from months to days. Deploy WebGL, PC, and Android game canisters, create NFT and Token collections, perform seamless airdrops, manage in-game NFT and Token minting, process payments and staking, configure your World smart contract and more.",
     "button": "Join game launcher"
   },
 
