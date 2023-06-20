@@ -1,0 +1,115 @@
+{
+  "error": "Sorry something happend... try again later",
+  "button_login": "Login via NFID",
+  "previous": "Previous",
+  "next": "Next",
+
+  "not_found": {
+    "title": "Are you lost?",
+    "message": "Sorry, we couldn’t find the page you’re looking for.",
+    "button_home": "Go back home"
+  },
+
+  "footer": {
+    "title": "Join us!",
+    "copyright": "COPYRIGHT © 2023 BOOM PLATFORM. ALL RIGHTS RESERVED"
+  },
+
+  "navigation": {
+    "home": "Home",
+    "mission": "Mission",
+    "tools": "Tools",
+    "game_launcher": "Game launcher",
+    "guilds": "Guilds",
+    "dao_sns": "Dao/Sns",
+    "whitepaper": "Whitepaper",
+    "roadmap": "Roadmap",
+    "partners": "Partners"
+  },
+
+  "home": {
+    "title_1": "First title to display...",
+    "title_2": "Second title to display...",
+    "title_3": "Third title to display...",
+    "title_4": "Fourth title to display...",
+    "button": "Claim $BOOM airdrop",
+    "members_text": "Join registered members:",
+    "spline": {
+      "top": "Hey you!",
+      "bottom": "Touch me"
+    }
+  },
+
+  "mission": {
+    "title": "Our mission",
+    "sub_title": "BOOM's three-fold mission is to power the next generation of fully on-chain games, drive mainstream adoption of the Internet Computer blockchain, and provide a collaborative hub for all things web3 gaming.",
+    "card_1": {
+      "title": "Foster Collaboration in the On-Chain Gaming Community",
+      "text": "We are building an all-in-one collaborative hub where anyone involved in on-chain gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+    },
+    "card_2": {
+      "title": "Foster Collaboration in the On-Chain Gaming Community",
+      "text": "We are building an all-in-one collaborative hub where anyone involved in on-chain gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+    },
+    "card_3": {
+      "title": "Foster Collaboration in the On-Chain Gaming Community",
+      "text": "We are building an all-in-one collaborative hub where anyone involved in on-chain gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+    }
+  },
+
+  "tools": {
+    "title": "Open-source tools",
+    "sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    "type_1": "Standard",
+    "type_2": "Tool",
+    "more_button": "Show more",
+    "less_button": "Show less"
+  },
+
+  "launcher": {
+    "title": "Game launcher",
+    "sub_title": "Amet minim mollit",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    "button": "Join game launcher"
+  },
+
+  "world_engine": {
+    "title": "World engine",
+    "sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "button": "Go to world engine"
+  },
+
+  "guilds": {
+    "title": "Game guilds",
+    "button": "Register to guild now",
+    "text_1": "Are you ready to join a thriving community of passionate individuals? Look no further than our guilds section!",
+    "text_2": "With a constantly increasing number of members, you'll be part of a dynamic and vibrant community that's always growing.",
+    "text_3": "And the best part? Joining is just a click away! Simply hit the registration button and become a part of something truly special.."
+  },
+
+  "dao": {
+    "title": "SNS DAO",
+    "sub_title": "Easy to get started",
+    "text_1": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    "text_2": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint."
+  },
+
+  "whitepaper": {
+    "title": "Whitepaper",
+    "sub_title": "Available in:",
+    "countdown": {
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    }
+  },
+
+  "roadmap": {
+    "title": "Roadmap"
+  },
+
+  "partners": {
+    "title": "Partners & Contributors"
+  }
+}
