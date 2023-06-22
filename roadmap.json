@@ -22,17 +22,17 @@
   {
     "date": "FEB 2023",
     "title": "World Engine V2",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    "text": "• World Permission System <br /> • Action Constraint Validation <br /> • Action Result Entity Updates <br /> • Staking Hub"
   },
   {
     "date": "MAR 2023",
     "title": "ICP.NET",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    "text": "• .NET and C# Library created by @Gekctek <br /> • Native Canister Calls from Unity <br /> • Client Generator for C# Candid Files"
   },
   {
     "date": "APR 2023",
     "title": "Unity Template",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    "text": " • Login Authentication on Mobile, PC, WebGL <br /> • Examples of Payments, Staking, Minting, Burning <br /> • Whitelabel NFT Marketplace <br /> • Integration with World Template"
   },
   {
     "date": "MAY 2023",
@@ -62,7 +62,7 @@
   {
     "date": "SEP 2023",
     "title": "Websocket Real-time Multiplayer",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    "text": "• On-Chain Websockets for Multiplayer Interaction <br /> • Integration of Websockets into World Engine <br /> • Real-Time Simulation on Low-Node Subnet"
   },
   {
     "date": "OCT 2023",
@@ -92,7 +92,7 @@
   {
     "date": "MAR 2024",
     "title": "Motoko Entity-Component-System",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    "text": "• ECS Architecture Fully On-Chain <br /> • Massive Performance Improvements for Complex Dapps <br /> • On-chain Composability and Reusability of Canisters <br /> • Base Layer for Non-Devs to Create and Mod On-Chain Games"
   },
   {
     "date": "APR 2024",
@@ -112,7 +112,7 @@
   {
     "date": "SEP 2024",
     "title": "ETH<>ICP Game Engine",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+    "text": "• Integrate ETH Assets in On-Chain ICP Games <br /> • Leverage Solidity for Logic and Motoko for Scaling <br /> • Harness the Liquidity of the ETH Ecosystem <br /> • User Acquisition of ETH Communities to ICP Games"
   },
   {
     "date": "DEC 2024",
