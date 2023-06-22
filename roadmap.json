@@ -2,7 +2,7 @@
   {
     "date": "JUL 2022",
     "title": "Game Launcher V1",
-    "text": "-Upload game builds\n-Deploy NFT collections\n-Airdrop NFTs"
+    "text": "-Upload game builds <br /> -Deploy NFT collections <br /> -Airdrop NFTs"
   },
   {
     "date": "SEP 2022",
@@ -31,7 +31,7 @@
   },
   {
     "date": "APR 2023",
-    "title": "ICP.NET",
+    "title": "Unity Template",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
   },
   {
@@ -41,17 +41,82 @@
   },
   {
     "date": "JUN 2023",
-    "title": "Website, Marketing Campaign, Social Media",
+    "title": "Website & Marketing Campaign",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
   },
   {
-    "date": "15.5.2023",
-    "title": "Project start",
+    "date": "JUL 2023",
+    "title": "SNS Preparation",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
   },
   {
-    "date": "15.5.2023",
-    "title": "Project start",
+    "date": "AUG 2023",
+    "title": "BOOM Game Makers Alliance",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  }
+  {
+    "date": "JUL 2023",
+    "title": "SNS Preparation",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "SEP 2023",
+    "title": "Websocket Real-time Multiplayer",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "OCT 2023",
+    "title": "BOOM Gaming Guilds V1",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "DEC 2023",
+    "title": "Global Gaming Hackathon",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "JUL 2023",
+    "title": "SNS Preparation",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "JAN 2024",
+    "title": "BOOM Gaming Guilds V2",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "FEB 2024",
+    "title": "BOOM Grant Program",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "MAR 2024",
+    "title": "Motoko Entity-Component-System",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "APR 2024",
+    "title": "World Engine Catalyst Program",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "MAY 2024",
+    "title": "Global Gaming Hackathon",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "JUL 2024",
+    "title": "Game Launcher Tokenization",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "SEP 2024",
+    "title": "ETH<>ICP Game Engine",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
+  },
+  {
+    "date": "DEC 2024",
+    "title": "The $BOOM Game Universe",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit."
   }
 ]
