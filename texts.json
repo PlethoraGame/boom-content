@@ -61,8 +61,6 @@
   "tools": {
     "title": "Open-source tools",
     "sub_title": "We embrace the spirit of collaboration and collective growth to foster network effects for game developers across the Internet Computer ecosystem. Everything we build will always be open-source: Game Launcher, World Engine, World Template, Unity Template, Tools, Standards, Examples, and more to come.",
-    "type_1": "Standard",
-    "type_2": "Tool",
     "more_button": "Show more",
     "less_button": "Show less"
   },
