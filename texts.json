@@ -89,7 +89,7 @@
 
   "guilds": {
     "title": "Game guilds",
-    "text": "Are you ready to join a thriving community of passionate gamers? Look no further than our guilds section! <br /> With a constantly increasing number of members, you'll be part of a vibrant community that's always growing and having fun. <br /> And the best part? Joining is just a click away! Simply hit the registration button and become a part of something truly special.",
+    "text": "Are you ready to join a thriving community of passionate gamers? Look no further than our guilds section! <br /> <br /> With a constantly increasing number of members, you'll be part of a vibrant community that's always growing and having fun. <br /> <br /> And the best part? Joining is just a click away! Simply hit the registration button and become a part of something truly special.",
     "button": {
       "text": "Register to guild now",
       "link": ""
