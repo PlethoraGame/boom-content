@@ -1,8 +1,5 @@
 {
   "error": "Sorry something happend... try again later",
-  "button_login": "Login via NFID",
-  "previous": "Previous",
-  "next": "Next",
 
   "not_found": {
     "title": "Are you lost?",
@@ -12,7 +9,10 @@
 
   "footer": {
     "title": "Join us!",
-    "copyright": "COPYRIGHT © 2023 BOOM PLATFORM. ALL RIGHTS RESERVED"
+    "copyright": "COPYRIGHT © 2023 BOOM PLATFORM. ALL RIGHTS RESERVED",
+    "twitter_link": "",
+    "github_link": "",
+    "discord_link": ""
   },
 
   "navigation": {
@@ -33,7 +33,10 @@
     "title_2": "The DAO for all games on ICP",
     "title_3": "The hub of 100% on-chain games",
     "title_4": "Only possible on the Internet Computer",
-    "button": "Claim $BOOM airdrop",
+    "button": {
+      "text": "Claim $BOOM airdrop",
+      "link": ""
+    },
     "members_text": "Registered DAO members:",
     "spline": {
       "top": "Hey you!",
@@ -69,18 +72,27 @@
     "title": "Game launcher",
     "sub_title": "One-Stop Game Platform",
     "text": "Shorten game development timelines from months to days. Deploy WebGL, PC, and Android game canisters, create NFT and Token collections, perform seamless airdrops, manage in-game NFT and Token minting, process payments and staking, configure your World smart contract and more.",
-    "button": "Join game launcher"
+    "button": {
+      "text": "Join game launcher"
+      "link": ""
+    }
   },
 
   "world_engine": {
     "title": "World engine",
     "sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "button": "Go to world engine"
+    "button": {
+      "text": "Go to world engine"
+      "link": ""
+    }
   },
 
   "guilds": {
     "title": "Game guilds",
-    "button": "Register to guild now",
+    "button": {
+      "text": "Register to guild now",
+      "link": ""
+    },
     "text_1": "Are you ready to join a thriving community of passionate gamers? Look no further than our guilds section!",
     "text_2": "With a constantly increasing number of members, you'll be part of a vibrant community that's always growing and having fun.",
     "text_3": "And the best part? Joining is just a click away! Simply hit the registration button and become a part of something truly special."
