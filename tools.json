@@ -4,62 +4,71 @@
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange"
+    "color": "orange",
+    "link": ""
   },
   {
     "title": "Title 2",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Standard",
-    "color": "orange"
+    "color": "orange",
+    "link": ""
   },
   {
     "title": "Title 3",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Template",
-    "color": "blue"
+    "color": "blue",
+    "link": ""
   },
   {
     "title": "Title 4",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "blue"
+    "color": "blue",
+    "link": ""
   },
   {
     "title": "Title 5",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange"
+    "color": "orange",
+    "link": ""
   },
   {
     "title": "Title 6",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange"
+    "color": "orange",
+    "link": ""
   },
   {
     "title": "Title 7",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange"
+    "color": "orange",
+    "link": ""
   },
   {
     "title": "Title 8",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange"
+    "color": "orange",
+    "link": ""
   },
   {
     "title": "Title 9",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "blue"
+    "color": "blue",
+    "link": ""
   }
 ]
