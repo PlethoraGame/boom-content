@@ -5,7 +5,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "gray"
+    "color": "gray",
+    "link": ""
   },
   {
     "title": "Title 2",
@@ -13,7 +14,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "yellow"
+    "color": "yellow",
+    "link": ""
   },
   {
     "title": "Title 3",
@@ -21,7 +23,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "gray"
+    "color": "gray",
+    "link": ""
   },
   {
     "title": "Title 4",
@@ -29,7 +32,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "yellow"
+    "color": "yellow",
+    "link": ""
   },
   {
     "title": "Title 5",
@@ -37,7 +41,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "gray"
+    "color": "gray",
+    "link": ""
   },
   {
     "title": "Title 6",
@@ -45,7 +50,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "yellow"
+    "color": "yellow",
+    "link": ""
   },
   {
     "title": "Title 7",
@@ -53,7 +59,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "yellow"
+    "color": "yellow",
+    "link": ""
   },
   {
     "title": "Title 8",
@@ -61,7 +68,8 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "yellow"
+    "color": "yellow",
+    "link": ""
   },
   {
     "title": "Title 9",
@@ -69,6 +77,7 @@
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": true,
-    "color": "gray"
+    "color": "gray",
+    "link": ""
   }
 ]
