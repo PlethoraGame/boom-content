@@ -1,16 +1,16 @@
 [
   {
-    "title": "Title 1",
-    "partner": "Partner 1",
+    "title": "Founding Partner",
+    "partner": "Ricardo",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Ricardo640x360.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
     "color": "orange",
-    "link": ""
+    "link": "https://twitter.com/capuzr"
   },
   {
-    "title": "Title 2",
-    "partner": "Partner 2",
+    "title": "Founding Partner",
+    "partner": "DSCVR",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/DSCVR640x360.jpeg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
@@ -18,8 +18,8 @@
     "link": ""
   },
   {
-    "title": "Title 3",
-    "partner": "Partner 3",
+    "title": "Founding Partner",
+    "partner": "Obsidian Tears",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/obsidiantears640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
@@ -27,8 +27,8 @@
     "link": ""
   },
   {
-    "title": "Title 4",
-    "partner": "Partner 4",
+    "title": "Founding Partner",
+    "partner": "Bounty Rush",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/BountyRush640x360.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
@@ -36,8 +36,8 @@
     "link": ""
   },
   {
-    "title": "Title 5",
-    "partner": "Partner 5",
+    "title": "Founding Partner & Contributor",
+    "partner": "Cubetopia",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cubetopia640x360.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
@@ -45,8 +45,8 @@
     "link": ""
   },
   {
-    "title": "Title 6",
-    "partner": "Partner 6",
+    "title": "Founding Partner & Contributor",
+    "partner": "Plethora",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
@@ -54,8 +54,8 @@
     "link": ""
   },
   {
-    "title": "Title 7",
-    "partner": "Partner 7",
+    "title": "Founding Partner",
+    "partner": "UnfoldVR",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/UnfoldVr640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
@@ -63,8 +63,8 @@
     "link": ""
   },
   {
-    "title": "Title 8",
-    "partner": "Partner 8",
+    "title": "Founding Team & Contributor",
+    "partner": "Hitesh",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Hitesh640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
