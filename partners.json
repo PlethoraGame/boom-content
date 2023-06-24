@@ -65,7 +65,7 @@
   {
     "title": "Title 8",
     "partner": "Partner 8",
-    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Hitesh640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
     "color": "yellow",
@@ -74,6 +74,69 @@
   {
     "title": "Title 9",
     "partner": "Partner 9",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 10",
+    "partner": "Partner 10",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 11",
+    "partner": "Partner 11",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 12",
+    "partner": "Partner 12",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 13",
+    "partner": "Partner 13",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 14",
+    "partner": "Partner 14",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 15",
+    "partner": "Partner 15",
+    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": true,
+    "color": "gray",
+    "link": ""
+  },
+  {
+    "title": "Title 16",
+    "partner": "Partner 16",
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": true,
