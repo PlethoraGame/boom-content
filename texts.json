@@ -52,18 +52,23 @@
   "mission": {
     "title": "Our mission",
     "sub_title": "BOOM gaming DAO’s three-fold mission is to build the gaming vertical of the Internet Computer blockchain, power the next generation of fully on-chain games, and provide a collaborative hub for all things web3 gaming.",
-    "card_1": {
-      "title": "Showcase the Unique Capabilities of Internet Computer for Gaming",
-      "text": "We are committed to demonstrating the unique capabilities of the Internet Computer blockchain by pushing its gaming vertical, bringing the technology into the mainstream by exploding its vibrant gaming ecosystem."
-    },
-    "card_2": {
-      "title": "Build the Foundational Infrastructure for On-Chain Gaming",
-      "text": "We are dedicated to developing the infrastructure that will power the next generation of fully on-chain games on ICP, creating new possibilities for gamers and developers alike."
-    },
-    "card_3": {
-      "title": "Foster Collaboration in the ICP Gaming Community",
-      "text": "We are creating an all-in-one collaborative hub where anyone involved in ICP gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
-    },
+    "cards": [
+      {
+        "color": "blue",
+        "title": "Showcase the Unique Capabilities of Internet Computer for Gaming",
+        "text": "We are committed to demonstrating the unique capabilities of the Internet Computer blockchain by pushing its gaming vertical, bringing the technology into the mainstream by exploding its vibrant gaming ecosystem."
+      },
+      {
+        "color": "orange",
+        "title": "Build the Foundational Infrastructure for On-Chain Gaming",
+        "text": "We are dedicated to developing the infrastructure that will power the next generation of fully on-chain games on ICP, creating new possibilities for gamers and developers alike."
+      },
+      {
+        "color": "yellow",
+        "title": "Foster Collaboration in the ICP Gaming Community",
+        "text": "We are creating an all-in-one collaborative hub where anyone involved in ICP gaming can contribute and reap the benefits, whether they're a gamer, builder, developer, guild, investor, partner, or other stakeholder."
+      }
+    ],
     "gif": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/mission.gif"
   },
 
