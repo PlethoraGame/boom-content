@@ -116,6 +116,7 @@
   "whitepaper": {
     "title": "Whitepaper",
     "sub_title": "Available in:",
+    "countdown_ISO_date": "2023-07-01T00:00:00.000Z",
     "countdown": {
       "days": "Days",
       "hours": "Hours",
