@@ -115,13 +115,19 @@
 
   "whitepaper": {
     "title": "Whitepaper",
-    "sub_title": "Available in:",
+    "show_countdown": true,
+    "countdown_sub_title": "Available in:",
     "countdown_ISO_date": "2023-07-01T00:00:00.000Z",
     "countdown": {
       "days": "Days",
       "hours": "Hours",
       "minutes": "Minutes",
       "seconds": "Seconds"
+    },
+    "whitepaper_sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    "whitepaper_button": {
+      "text": "Show whitepaper",
+      "link": ""
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Whitepaper.gif"
   },
