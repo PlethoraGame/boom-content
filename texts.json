@@ -1,6 +1,6 @@
 {
   "error": "Sorry something happend... try again later",
-  "logo": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/logo.png",
+  "logo": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/logo.png",
 
   "not_found": {
     "title": "Are you lost?",
@@ -45,7 +45,7 @@
     "spline": {
       "top": "Hey you!",
       "bottom": "Touch me",
-      "placeholder": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/spline-placeholder.png"
+      "placeholder": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/spline-placeholder.png"
     }
   },
 
@@ -128,7 +128,7 @@
 
   "roadmap": {
     "title": "Roadmap",
-    "progress_icon": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/gamepad.png"
+    "progress_icon": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/gamepad.png"
   },
 
   "partners": {
