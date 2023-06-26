@@ -39,7 +39,7 @@
     ],
     "button": {
       "text": "Claim $BOOM airdrop",
-      "link": "airdrop.boomdao.xyz/register"
+      "link": "https://airdrop.boomdao.xyz/register"
     },
     "members_text": "Registered DAO members:",
     "spline": {
