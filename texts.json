@@ -37,6 +37,8 @@
       "The hub of 100% on-chain games",
       "Only possible on the Internet Computer"
     ],
+    "title_speed": 20,
+    "title_deletion_speed": 40,
     "button": {
       "text": "Claim $BOOM airdrop",
       "link": "https://airdrop.boomdao.xyz/register"
