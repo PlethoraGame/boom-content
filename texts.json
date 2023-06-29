@@ -41,7 +41,8 @@
     "title_deletion_speed": 40,
     "button": {
       "text": "Claim $BOOM airdrop",
-      "link": "https://airdrop.boomdao.xyz/register"
+      "link": "https://airdrop.boomdao.xyz/register",
+      "new_tab": false
     },
     "members_text": "Registered DAO members:",
     "spline": {
@@ -87,7 +88,8 @@
     "text": "Shorten game development timelines from months to days. Deploy WebGL, PC, and Android game canisters, create NFT and Token collections, perform seamless airdrops, manage in-game NFT and Token minting, process payments and staking, configure your World smart contract and more.",
     "button": {
       "text": "Join game launcher",
-      "link": "http://launcher.boomdao.xyz/"
+      "link": "http://launcher.boomdao.xyz/",
+      "new_tab": true
     }
   },
 
@@ -96,7 +98,8 @@
     "sub_title": "The on-chain engine for all gaming worlds established on the Internet Computer. <br /> <br /> This <q>Powerhouse of Worlds</q> weaves together a complex interconnected ecosystem of ICP games into one universally accessible database, supercharged with modular game logic, composable data standards, and customizable access control for interactions across game worlds. <br /> <br /> All worlds built with the World Engine are interoperable from Day 1. Plus, it comes packed with payment, staking, minting, and burning features, opening up a universe of possibilities!",
     "button": {
       "text": "Go to world engine",
-      "link": "https://docs.boomdao.xyz/world-engine"
+      "link": "https://docs.boomdao.xyz/world-engine",
+      "new_tab": true
     }
   },
 
@@ -105,7 +108,8 @@
     "text": "Are you ready to join a thriving community of passionate gamers? Look no further than our guilds section! <br /> <br /> With a constantly increasing number of members, you'll be part of a vibrant community that's always growing and having fun. <br /> <br /> And the best part? Joining is just a click away! Simply hit the registration button and become a part of something truly special.",
     "button": {
       "text": "Register to guild now",
-      "link": ""
+      "link": "",
+      "new_tab": false
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Guilds.gif"
   },
@@ -129,7 +133,8 @@
     "whitepaper_sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
     "whitepaper_button": {
       "text": "Show whitepaper",
-      "link": ""
+      "link": "",
+      "new_tab": true
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Whitepaper.gif"
   },
