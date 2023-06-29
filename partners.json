@@ -130,7 +130,7 @@
     "partner": "Founding Partner & Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Dragginz.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": true,
+    "hidden": false,
     "color": "gray",
     "link": ""
   },
@@ -139,7 +139,7 @@
     "partner": "Partner 16",
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": true,
+    "hidden": false,
     "color": "gray",
     "link": ""
   },
@@ -148,7 +148,7 @@
     "partner": "Partner 17",
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": true,
+    "hidden": false,
     "color": "gray",
     "link": ""
   },
