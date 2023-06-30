@@ -1,5 +1,13 @@
 [
   {
+    "title": "Unity Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "label": "Template",
+    "color": "orange",
+    "link": ""
+  },
+  {
     "title": "Game Launcher",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_game_launcher.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
@@ -28,14 +36,6 @@
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Standard",
-    "color": "orange",
-    "link": ""
-  },
-  {
-    "title": "Unity Template",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "label": "Template",
     "color": "orange",
     "link": ""
   },
