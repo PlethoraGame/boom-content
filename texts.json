@@ -116,6 +116,15 @@
 
   "dao": {
     "title": "SNS DAO",
+    "text": {
+      "texts": [
+        "SNS DAO BECAUSE XYZ",
+        "SNS DAO BECAUSE ABC",
+        "SNS DAO BECAUSE 123"
+      ],
+      "morphTime": 2,
+      "cooldownTime": 0.25
+    },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/DAO.gif"
   },
 
