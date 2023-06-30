@@ -1,50 +1,50 @@
 [
   {
-    "title": "Title 1",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
+    "title": "Game Launcher",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_game_launcher.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange",
+    "color": "blue",
     "link": "https://github.com/orgs/BoomDAO/repositories"
   },
   {
-    "title": "Title 2",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
+    "title": "World Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "label": "Template",
+    "color": "orange",
+    "link": "https://github.com/orgs/BoomDAO/repositories"
+  },
+    {
+    "title": "ICP.NET Agent",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_ICP.NET.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "label": "Tool",
+    "color": "blue",
+    "link": ""
+  },
+  {
+    "title": "World Engine",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Standard",
     "color": "orange",
-    "link": "https://github.com/orgs/BoomDAO/repositories"
+    "link": ""
   },
   {
-    "title": "Title 3",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
+    "title": "Unity Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Template",
-    "color": "blue",
-    "link": ""
-  },
-  {
-    "title": "Title 4",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "label": "Tool",
-    "color": "blue",
-    "link": ""
-  },
-  {
-    "title": "Title 5",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "label": "Tool",
     "color": "orange",
     "link": ""
   },
   {
-    "title": "Title 6",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/world-engine-card.png",
+    "title": "Code Examples",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_examples.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "label": "Tool",
-    "color": "orange",
+    "color": "blue",
     "link": ""
   }
 ]
