@@ -2,7 +2,7 @@
   {
     "title": "Unity Template",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A template for login authentication, payments, staking, minting, burning, white-label shop and marketplace.",
     "label": "Template",
     "color": "orange",
     "link": "https://github.com/BoomDAO/unity-template"
@@ -10,7 +10,7 @@
   {
     "title": "Game Launcher",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_game_launcher.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Comprehensive platform for creating games, tokens, NFTs, and smart contracts on ICP, no coding necessary.",
     "label": "Tool",
     "color": "blue",
     "link": "https://github.com/BoomDAO/game-launcher"
@@ -18,7 +18,7 @@
   {
     "title": "World Template",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A template for the "server backend" of a game, regulating the logic and rules governing the game economy.",
     "label": "Template",
     "color": "orange",
     "link": "https://github.com/BoomDAO/world-template"
@@ -26,7 +26,7 @@
     {
     "title": "ICP.NET Agent",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_ICP.NET.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A powerful library to make native calls to ICP canister smart contracts directly from the Unity game engine.",
     "label": "Tool",
     "color": "blue",
     "link": "https://github.com/BoomDAO/ICP.NET"
@@ -34,7 +34,7 @@
   {
     "title": "World Engine",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A protocol unifying all ICP games through a shared, modular database that supercharges cross-game economies.",
     "label": "Standard",
     "color": "orange",
     "link": "https://github.com/BoomDAO/world-engine"
@@ -42,7 +42,7 @@
   {
     "title": "Code Examples",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_examples.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Motoko coding samples of game features like chat, multiplayer simulation, batch transferring tokens & NFTs etc.",
     "label": "Tool",
     "color": "blue",
     "link": "https://github.com/BoomDAO/examples"
