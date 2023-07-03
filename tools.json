@@ -1,5 +1,13 @@
 [
   {
+    "title": "World Engine",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
+    "text": "A shared, modular game database that supercharges all ICP game worlds with cross-world economies and composable game state.",
+    "label": "Standard",
+    "color": "orange",
+    "link": "https://github.com/BoomDAO/world-engine"
+  },
+  {
     "title": "Game Launcher",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_game_launcher.png",
     "text": "Comprehensive platform for creating games, tokens, NFTs, and smart contracts on ICP, no coding necessary.",
@@ -7,13 +15,13 @@
     "color": "blue",
     "link": "https://github.com/BoomDAO/game-launcher"
   },
-  {
-    "title": "World Engine",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
-    "text": "A shared, modular game database that supercharges all ICP game worlds with cross-world economies and composable game state.",
-    "label": "Standard",
+    {
+    "title": "Unity Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
+    "text": "A template for login authentication, payments, staking, minting, burning, white-label shop and marketplace.",
+    "label": "Template",
     "color": "orange",
-    "link": "https://github.com/BoomDAO/world-engine"
+    "link": "https://github.com/BoomDAO/unity-template"
   },
   {
     "title": "ICP.NET Agent",
@@ -23,13 +31,13 @@
     "color": "blue",
     "link": "https://github.com/BoomDAO/ICP.NET"
   },
-  {
-    "title": "Unity Template",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
-    "text": "A template for login authentication, payments, staking, minting, burning, white-label shop and marketplace.",
+    {
+    "title": "World Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
+    "text": "A template for the <q>server backend</q> of a game, regulating the logic and rules governing the game economy.",
     "label": "Template",
     "color": "orange",
-    "link": "https://github.com/BoomDAO/unity-template"
+    "link": "https://github.com/BoomDAO/world-template"
   },
   {
     "title": "Code Examples",
@@ -38,13 +46,5 @@
     "label": "Tool",
     "color": "blue",
     "link": "https://github.com/BoomDAO/examples"
-  },
-  {
-    "title": "World Template",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
-    "text": "A template for the <q>server backend</q> of a game, regulating the logic and rules governing the game economy.",
-    "label": "Template",
-    "color": "orange",
-    "link": "https://github.com/BoomDAO/world-template"
   }
 ]
