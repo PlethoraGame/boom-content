@@ -181,20 +181,20 @@
   },
   {
     "title": "Puppies: Realms of Darkness",
-    "partner": "Partner 18",
+    "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/icpuppies.jpeg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "orange",
+    "color": "yellow",
     "link": ""
   },
   {
-    "title": "Title 19",
-    "partner": "Partner 19",
+    "title": "Cosmicrafts",
+    "partner": "Partner",
     "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "orange",
+    "color": "yellow",
     "link": ""
   },
   {
