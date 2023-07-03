@@ -1,11 +1,11 @@
 [
   {
-    "title": "Unity Template",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
-    "text": "A template for login authentication, payments, staking, minting, burning, white-label shop and marketplace.",
-    "label": "Template",
+    "title": "World Engine",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
+    "text": "A protocol unifying all ICP games through a shared, modular database that supercharges cross-game economies.",
+    "label": "Standard",
     "color": "orange",
-    "link": "https://github.com/BoomDAO/unity-template"
+    "link": "https://github.com/BoomDAO/world-engine"
   },
   {
     "title": "Game Launcher",
@@ -16,14 +16,14 @@
     "link": "https://github.com/BoomDAO/game-launcher"
   },
   {
-    "title": "World Template",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
-    "text": "A template for the <q>server backend<q> of a game, regulating the logic and rules governing the game economy.",
+    "title": "Unity Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_unity_template.png",
+    "text": "A template for login authentication, payments, staking, minting, burning, white-label shop and marketplace.",
     "label": "Template",
     "color": "orange",
-    "link": "https://github.com/BoomDAO/world-template"
+    "link": "https://github.com/BoomDAO/unity-template"
   },
-    {
+  {
     "title": "ICP.NET Agent",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_ICP.NET.png",
     "text": "A powerful library to make native calls to ICP canister smart contracts directly from the Unity game engine.",
@@ -32,12 +32,12 @@
     "link": "https://github.com/BoomDAO/ICP.NET"
   },
   {
-    "title": "World Engine",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
-    "text": "A protocol unifying all ICP games through a shared, modular database that supercharges cross-game economies.",
-    "label": "Standard",
+    "title": "World Template",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
+    "text": "A template for the <q>server backend<q> of a game, regulating the logic and rules governing the game economy.",
+    "label": "Template",
     "color": "orange",
-    "link": "https://github.com/BoomDAO/world-engine"
+    "link": "https://github.com/BoomDAO/world-template"
   },
   {
     "title": "Code Examples",
