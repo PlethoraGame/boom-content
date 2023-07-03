@@ -22,7 +22,7 @@
     "partner": "Founding Partner & Advisor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Rick.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": true,
+    "hidden": false,
     "color": "orange",
     "link": ""
   },
