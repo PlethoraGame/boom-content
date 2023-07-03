@@ -10,7 +10,7 @@
   {
     "title": "World Engine",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_wolrd_engine.png",
-    "text": "A protocol unifying all ICP games through a shared, modular database that supercharges cross-game economies.",
+    "text": "A shared, modular game database that supercharges all ICP game worlds with cross-world economies and composable game state.",
     "label": "Standard",
     "color": "orange",
     "link": "https://github.com/BoomDAO/world-engine"
