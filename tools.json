@@ -18,7 +18,7 @@
   {
     "title": "World Template",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_world_template.png",
-    "text": "A template for the "server backend" of a game, regulating the logic and rules governing the game economy.",
+    "text": "A template for the <q>server backend<q> of a game, regulating the logic and rules governing the game economy.",
     "label": "Template",
     "color": "orange",
     "link": "https://github.com/BoomDAO/world-template"
