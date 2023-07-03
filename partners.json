@@ -95,7 +95,7 @@
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Dragginz.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "gray",
+    "color": "blue",
     "link": ""
   },
   {
@@ -140,7 +140,7 @@
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/George.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "gray",
+    "color": "orange",
     "link": ""
   },
   {
@@ -149,7 +149,7 @@
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/UnfoldVr640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "yellow",
+    "color": "orange",
     "link": ""
   },
   {
@@ -158,7 +158,7 @@
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/obsidiantears640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "blue",
+    "color": "orange",
     "link": ""
   },
   {
