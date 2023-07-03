@@ -81,13 +81,22 @@
     "link": ""
   },
   {
-    "title": "Ricardo",
-    "partner": "Founding Partner",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Ricardo640x360.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Velit officia consequat duis enim velit mollit.",
+    "title": "Cubetopia",
+    "partner": "Founding Partner & Contributor",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cubetopia640x360.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "orange",
-    "link": "https://twitter.com/capuzr"
+    "color": "blue",
+    "link": ""
+  },
+  {
+    "title": "Plethora",
+    "partner": "Founding Partner & Contributor",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": false,
+    "color": "blue",
+    "link": ""
   },
   {
     "title": "DSCVR",
@@ -97,6 +106,24 @@
     "hidden": false,
     "color": "orange",
     "link": ""
+  },
+  {
+    "title": "Ricardo",
+    "partner": "Founding Partner",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Ricardo640x360.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Velit officia consequat duis enim velit mollit.",
+    "hidden": false,
+    "color": "orange",
+    "link": "https://twitter.com/capuzr"
+  },
+  {
+    "title": "Elementum",
+    "partner": "Founding Partner",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Elementum.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Velit officia consequat duis enim velit mollit.",
+    "hidden": false,
+    "color": "orange",
+    "link": "https://twitter.com/capuzr"
   },
   {
     "title": "Obsidian Tears",
@@ -114,24 +141,6 @@
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
     "color": "blue",
-    "link": ""
-  },
-  {
-    "title": "Cubetopia",
-    "partner": "Founding Partner & Contributor",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cubetopia640x360.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": false,
-    "color": "gray",
-    "link": ""
-  },
-  {
-    "title": "Plethora",
-    "partner": "Founding Partner & Contributor",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": false,
-    "color": "yellow",
     "link": ""
   },
   {
