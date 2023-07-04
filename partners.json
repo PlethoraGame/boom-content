@@ -162,21 +162,30 @@
     "link": ""
   },
   {
-    "title": "Eimolad",
+    "title": "Inside Dark Studio",
     "partner": "Founding Partner",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Eimolad640x360.png",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/IDS.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
     "color": "orange",
     "link": ""
   },
   {
+    "title": "Eimolad",
+    "partner": "Partner",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Eimolad640x360.png",
+    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "hidden": false,
+    "color": "yellow",
+    "link": ""
+  },
+  {
     "title": "Paws Arena",
-    "partner": "Founding Partner",
+    "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/paws-arena640x360.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
-    "color": "orange",
+    "color": "yellow",
     "link": ""
   },
   {
@@ -195,15 +204,6 @@
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": false,
     "color": "yellow",
-    "link": ""
-  },
-  {
-    "title": "Title 20",
-    "partner": "Partner 20",
-    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": false,
-    "color": "orange",
     "link": ""
   },
   {
