@@ -207,18 +207,18 @@
     "link": ""
   },
   {
-    "title": "Title 21",
-    "partner": "Partner 21",
-    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "title": "Dfinity Space Academy",
+    "partner": "Partner",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/DSA.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": true,
     "color": "orange",
     "link": ""
   },
   {
-    "title": "Title 22",
-    "partner": "Partner 22",
-    "image": "https://todayweb.fra1.cdn.digitaloceanspaces.com/boom/game-example.png",
+    "title": "Boxy World",
+    "partner": "Partner",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/boxyworld.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
     "hidden": true,
     "color": "gray",
