@@ -133,20 +133,22 @@
 
   "whitepaper": {
     "title": "Whitepaper",
-    "show_countdown": true,
-    "countdown_sub_title": "Available in:",
-    "countdown_ISO_date": "2023-07-01T00:00:00.000Z",
+    "show_whitepaper": false,
     "countdown": {
+      "sub_title": "Available in:",
+      "iso_date": "2023-07-10T00:00:00.000Z",
       "days": "Days",
       "hours": "Hours",
       "minutes": "Minutes",
       "seconds": "Seconds"
     },
-    "whitepaper_sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
-    "whitepaper_button": {
-      "text": "Show whitepaper",
-      "link": "",
-      "new_tab": true
+    "whitepaper": {
+      "sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "button": {
+        "text": "Show whitepaper",
+        "link": "",
+        "new_tab": true
+      }
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Whitepaper.gif"
   },
