@@ -211,8 +211,8 @@
     "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/DSA.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": true,
-    "color": "orange",
+    "hidden": false,
+    "color": "yellow",
     "link": ""
   },
   {
@@ -220,8 +220,8 @@
     "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/boxyworld.jpg",
     "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
-    "hidden": true,
-    "color": "gray",
+    "hidden": false,
+    "color": "yellow",
     "link": ""
   }
 ]
