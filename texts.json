@@ -133,7 +133,7 @@
 
   "whitepaper": {
     "title": "Whitepaper",
-    "show_whitepaper": true,
+    "show_whitepaper": false,
     "countdown": {
       "sub_title": "Available in:",
       "iso_date": "2023-07-10T00:00:00.000Z",
