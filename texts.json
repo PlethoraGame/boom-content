@@ -88,7 +88,7 @@
     "text": "Shorten game development timelines from months to days. Deploy WebGL, PC, and Android game canisters, create NFT and Token collections, perform seamless airdrops, manage in-game NFT and Token minting, process payments and staking, configure your World smart contract and more.",
     "button": {
       "text": "Join game launcher",
-      "link": "http://launcher.boomdao.xyz/",
+      "link": "https://launcher.boomdao.xyz/",
       "new_tab": true
     }
   },
@@ -108,7 +108,7 @@
     "text": "Are you ready to join a thriving community of passionate gamers? Look no further than our guilds section! <br /> <br /> With a constantly increasing number of members, you'll be part of a vibrant community that's always growing and having fun. <br /> <br /> And the best part? Joining is just a click away! Simply hit the registration button and become a part of something truly special.",
     "button": {
       "text": "Register to guild now",
-      "link": "",
+      "link": "https://airdrop.boomdao.xyz/register",
       "new_tab": false
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Guilds.gif"
