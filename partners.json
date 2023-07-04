@@ -30,7 +30,7 @@
     "title": "Tommy",
     "partner": "Founding Team & Core Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Tommy.jpg",
-    "text": "Co-founder of Plethora. Former AAA game developer at Disney and Scopely building player-first games for Marvel and Avatar. Firmly believes blockchain will eat the world",
+    "text": "Co-founder of Plethora. Former AAA game developer at Disney and Scopely building player-first games for Marvel and Avatar.",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -39,7 +39,7 @@
     "title": "Max",
     "partner": "Founding Team & Core Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Max.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Co-founder of Plethora. Building web3 products and web3 communities, night and day. Advisor and seed investor in ICP ecosystem.",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -84,7 +84,7 @@
     "title": "Cubetopia",
     "partner": "Founding Partner & Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cubetopia640x360.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Minecraft meets World of Warcraft, on the blockchain. Build, chat and adventure with friends, right in your browser.",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -102,7 +102,7 @@
     "title": "Plethora",
     "partner": "Founding Partner & Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A web3 gaming lab building casual games anf gaming infrastructure tools on the Internet Computer blockchain.",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -174,7 +174,7 @@
     "title": "Eimolad",
     "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Eimolad640x360.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A fantasy world inhabited by humans, dwarves, orcs, elves and other fantastic creatures. This is a world of magic and valor. This world is full of mysteries, dangers and incredible adventures.",
     "hidden": false,
     "color": "yellow",
     "link": ""
