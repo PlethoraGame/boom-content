@@ -21,7 +21,7 @@
     "title": "Rick",
     "partner": "Founding Partner & Advisor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Rick.jpg",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Co-founder of DSCVR",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -30,7 +30,7 @@
     "title": "Tommy",
     "partner": "Founding Team & Core Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Tommy.jpg",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Co-founder of Plethora. Former AAA game developer at Disney and Scopely building player-first games for Marvel and Avatar. Firmly believes blockchain will eat the world",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -93,7 +93,7 @@
     "title": "Dragginz",
     "partner": "Founding Partner & Contributor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Dragginz.jpg",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "100% on-chain 3D MMO. Hatch a baby Draggin and go on adventures in a massive multi-player fantasy world.",
     "hidden": false,
     "color": "blue",
     "link": ""
@@ -165,7 +165,7 @@
     "title": "Inside Dark Studio",
     "partner": "Founding Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/IDS.jpg",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A dedicated game development studio, focused on creating immersive and captivating gaming experiences that transport players to new realms of imagination",
     "hidden": false,
     "color": "orange",
     "link": ""
@@ -201,7 +201,16 @@
     "title": "Cosmicrafts",
     "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cosmicrafts.png",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "A real-time strategy web3 game to experience action packed and fast-paced intergalactic warfare by commanding your own space fleet.",
+    "hidden": false,
+    "color": "yellow",
+    "link": ""
+  },
+  {
+    "title": "Cthulhu",
+    "partner": "Partner",
+    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cthulhu.jpg",
+    "text": "A real-time strategy web3 game to experience action packed and fast-paced intergalactic warfare by commanding your own space fleet.",
     "hidden": false,
     "color": "yellow",
     "link": ""
@@ -210,7 +219,7 @@
     "title": "Dfinity Space Academy",
     "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/DSA.jpg",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Dfinity Space Academy takes you on an immersive journey of space exploration like never before. Embark on an epic adventure across the vast expanse of the universe, encountering other races and civilizations along the way.",
     "hidden": false,
     "color": "yellow",
     "link": ""
@@ -219,7 +228,7 @@
     "title": "Boxy World",
     "partner": "Partner",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/boxyworld.jpg",
-    "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.",
+    "text": "Boxy World is a cutting-edge blockchain game that combines NFT-based breeding and staking mechanics, offering players a unique and immersive gaming experience.",
     "hidden": false,
     "color": "yellow",
     "link": ""
