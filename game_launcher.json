@@ -1,5 +1,5 @@
-{
-    "row_1": [
+[
+    [
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/paws-arena640x360.jpg",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Eimolad640x360.png",
@@ -11,7 +11,7 @@
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/icpuppies.jpeg",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/the_players_fortress.jpg"
     ],
-    "row_2": [
+    [
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/vilintrius.jpg",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Eimolad640x360.png",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/boxyworld.jpg",
@@ -23,7 +23,7 @@
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/release_of_madness.jpg"
     ],
-    "row_3": [
+    [
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Plethora640x360.png",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/UnfoldVr640x360.jpg",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/icpuppies.jpeg",
@@ -35,5 +35,5 @@
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/paws-arena640x360.jpg",
       "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Cthulhu.jpg"
     ]
-  }
+]
   
