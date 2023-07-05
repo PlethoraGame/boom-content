@@ -24,7 +24,7 @@
     "link": "https://github.com/BoomDAO/unity-template"
   },
   {
-    "title": "ICP.NET Agent",
+    "title": "ICP.NET Library",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/github_ICP.NET.png",
     "text": "A powerful library to make native calls to ICP canister smart contracts directly from the Unity game engine.",
     "label": "Tool",
