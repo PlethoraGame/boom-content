@@ -87,7 +87,7 @@
     "sub_title": "One-Stop Game Platform",
     "text": "Shorten game development timelines from months to days. Deploy WebGL, PC, and Android game canisters, create NFT and Token collections, perform seamless airdrops, manage in-game NFT and Token minting, process payments and staking, configure your World smart contract and more.",
     "button": {
-      "text": "View game launcher",
+      "text": "View Game Launcher",
       "link": "http://launcher.boomdao.xyz/",
       "new_tab": true
     }
