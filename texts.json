@@ -42,7 +42,7 @@
     "button": {
       "text": "Claim $BOOM airdrop",
       "link": "https://airdrop.boomdao.xyz/register",
-      "new_tab": false
+      "new_tab": true
     },
     "members_text": "Registered DAO members:",
     "spline": {
@@ -109,7 +109,7 @@
     "button": {
       "text": "Register to guild now",
       "link": "https://airdrop.boomdao.xyz/register",
-      "new_tab": false
+      "new_tab": true
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Guilds.gif"
   },
