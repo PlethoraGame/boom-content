@@ -241,14 +241,5 @@
     "hidden": false,
     "color": "yellow",
     "link": "https://linktr.ee/boxydude"
-  },
-{
-    "title": "Boxy World",
-    "partner": "Partner",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/boxyworld.jpg",
-    "text": "Boxy World is a cutting-edge blockchain game that combines NFT-based breeding and staking mechanics, offering players a unique and immersive gaming experience.",
-    "hidden": true,
-    "color": "yellow",
-    "link": "https://linktr.ee/boxydude"
   }
 ]
