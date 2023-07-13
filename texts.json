@@ -42,7 +42,7 @@
     "title_deletion_speed": 40,
     "button": {
       "text": "Become a DAO member",
-      "link": "",
+      "link": "https://boomdao.xyz",
       "new_tab": true
     },
     "members_text": "Registered DAO members:",
