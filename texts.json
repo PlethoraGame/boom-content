@@ -134,7 +134,7 @@
 
   "whitepaper": {
     "title": "Whitepaper",
-    "show_whitepaper": false,
+    "show_whitepaper": true,
     "countdown": {
       "sub_title": "Available in:",
       "iso_date": "2023-07-23T00:00:00.000Z",
@@ -147,7 +147,7 @@
       "sub_title": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
       "button": {
         "text": "Read Whitepaper",
-        "link": "",
+        "link": "https://boomdao.notion.site/BOOM-DAO-WHITEPAPER-59bc2aa3380b4f86b01344da42157a24",
         "new_tab": true
       }
     },
