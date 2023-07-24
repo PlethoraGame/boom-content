@@ -1,23 +1,5 @@
 [
   {
-    "title": "Adam",
-    "partner": "Founding Partner & Advisor",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Adam.jpg",
-    "text": "Co-founder of Dragginz and original creator of Neopets.",
-    "hidden": false,
-    "color": "blue",
-    "link": "https://sns-1.net/"
-  },
-  {
-    "title": "Lorenzo",
-    "partner": "Founding Partner & Advisor",
-    "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Lorenzo.jpg",
-    "text": "Co-founder of Dragginz. Creator of Scrabble® GO, the #1 downloaded word game in the world.",
-    "hidden": false,
-    "color": "blue",
-    "link": "https://sns-1.net/"
-  },
-  {
     "title": "Rick",
     "partner": "Founding Partner & Advisor",
     "image": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Rick.jpg",
