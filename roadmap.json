@@ -65,34 +65,44 @@
     "text": "• Brainstorm Gaming Infrastructure with ICP Game Partners <br /> • Conduct Tailored Workshops with DFINITY and BOOM DAO Researchers <br /> • Enhance On-Chain Gaming Knowledge at DFINITY and within the Ecosystem"
   },
   {
-    "date": "SEP 2023",
+    "date": "OCT 2023",
+    "title": "Unity SDK",
+    "text": "• Drag-and-Drop Unity Package to Kickstart Development <br /> • ICP Login, Canister Database, NFT and ICRC Minting, NFT Marketplace, and ICP/ICRC/NFT Payments"
+  },
+  {
+    "date": "NOV 2023",
     "title": "BOOM Game Makers Alliance",
     "text": "• Unify All ICP Game Creators in One Organization <br /> • Initiate Working Groups for Game Tech Collaboration <br /> • Provide Technical Support for all ICP Gaming Teams & Indie Devs"
   },
   {
-    "date": "OCT 2023",
+    "date": "NOV 2023",
     "title": "BOOM Gaming Guilds V1 (BGG)",
-    "text": "• Generate the Inaugural BGG Whitelist <br /> • Integrate BGG into ICP Games via the World Engine <br /> • Dispense BOOM DAO Rewards to BGG for Cross-Game Engagement"
+    "text": "• Generate the Inaugural BGG Whitelist <br /> • Integrate BGG into ICP Games via the World Engine <br />"
   },
   {
     "date": "DEC 2023",
-    "title": "Websocket Real-time Multiplayer",
-    "text": "• On-Chain Websockets for Multiplayer Interaction <br /> • Integration of Websockets into World Engine <br /> • Real-Time Simulation on Low-Node Subnet"
+    "title": "Leaderboard Standard",
+    "text": "• Composable Gaming Leaderboard Standard <br /> • Adaptable to Any On-Chain Game <br /> • 100% in Canisters on the World Protocol"
   },
   {
-    "date": "JAN 2024",
+    "date": "DEC 2023",
+    "title": "On-Chain Multiplayer",
+    "text": "• On-Chain Multiplayer Gaming Framework <br /> • Matchmaking and Room System <br /> • Integrated with World Canisters"
+  },
+  {
+    "date": "DEC 2023",
+    "title": "World Protocol V2",
+    "text": "• Improvements for Payments, Staking, Chat, Login, and Entities <br /> • Smart-Contract-Authoritative Movement and Position Validation"
+  },
+  {
+    "date": "FEB 2024",
     "title": "BOOM Gaming Guilds V2",
     "text": "• Develop a Universal Guild Hub <br /> • Integrate Games Directly into the Guild Hub Smart Contract <br /> • Display User Data in Guild Hub via World Engine <br /> • Social Features to Verify Status and Reward Guild Members"
   },
   {
-    "date": "FEB 2024",
+    "date": "MAR 2024",
     "title": "BOOM Grant Program",
     "text": "• Assemble Grant Committee <br /> • Launch Application Process <br /> • Identify Novel and Innovative Grants <br /> • Incentives for Current and Emerging Games"
-  },
-  {
-    "date": "MAR 2024",
-    "title": "Motoko Entity-Component-System",
-    "text": "• ECS Architecture Fully On-Chain <br /> • Massive Performance Improvements for Complex Dapps <br /> • On-chain Composability and Reusability of Canisters <br /> • Base Layer for Non-Devs to Create and Mod On-Chain Games"
   },
   {
     "date": "APR 2024",
@@ -108,11 +118,6 @@
     "date": "JUL 2024",
     "title": "Game Launcher Tokenization",
     "text": "• Integrate $BOOM token to the Game Launcher <br /> • Design token economy and incentives <br /> • Gamification of the platform"
-  },
-  {
-    "date": "SEP 2024",
-    "title": "ETH<>ICP Game Engine",
-    "text": "• Integrate ETH Assets in On-Chain ICP Games <br /> • Leverage Solidity for Logic and Motoko for Scaling <br /> • Harness the Liquidity of the ETH Ecosystem <br /> • User Acquisition of ETH Communities to ICP Games"
   },
   {
     "date": "DEC 2024",
