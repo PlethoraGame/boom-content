@@ -95,10 +95,10 @@
   },
 
   "world_engine": {
-    "title": "World engine",
-    "sub_title": "The on-chain engine for all gaming worlds established on the Internet Computer. <br /> <br /> This <q>Powerhouse of Worlds</q> weaves together a complex interconnected ecosystem of ICP games into one universally accessible database, supercharged with modular game logic, composable data standards, and customizable access control for interactions across game worlds. <br /> <br /> All worlds built with the World Engine are interoperable from Day 1.",
+    "title": "World protocol",
+    "sub_title": "The on-chain protocol for all gaming worlds established on the Internet Computer. <br /> <br /> This <q>Powerhouse of Worlds</q> weaves together a complex interconnected ecosystem of ICP games into one universally accessible database, supercharged with modular game logic, composable data standards, and customizable access control for interactions across game worlds. <br /> <br /> All worlds built with the World Protocol are interoperable from Day 1.",
     "button": {
-      "text": "Go to World Engine",
+      "text": "Deploy on the World Protocol",
       "link": "https://docs.boomdao.xyz/world-engine",
       "new_tab": true
     }
