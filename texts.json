@@ -26,8 +26,6 @@
     "world_engine": "World engine",
     "guilds": "Guilds",
     "dao_sns": "Sns",
-    "whitepaper": "Whitepaper",
-    "roadmap": "Roadmap",
     "partners": "Partners"
   },
 
@@ -130,33 +128,6 @@
       "cooldownTime": 0.25
     },
     "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/DAO.gif"
-  },
-
-  "whitepaper": {
-    "title": "Whitepaper",
-    "show_whitepaper": true,
-    "countdown": {
-      "sub_title": "Available in:",
-      "iso_date": "2023-07-23T00:00:00.000Z",
-      "days": "Days",
-      "hours": "Hours",
-      "minutes": "Minutes",
-      "seconds": "Seconds"
-    },
-    "whitepaper": {
-      "sub_title": "The BOOM DAO Whitepaper is your guide to the future of on-chain gaming. It covers the project's mission, technical architecture, governance model, funding initiatives, growth strategy, and sustainability plans. The document also outlines the project's tokenomics, roadmap, and democratic governance.",
-      "button": {
-        "text": "Read BOOM DAO Whitepaper",
-        "link": "https://boomdao.notion.site/BOOM-DAO-WHITEPAPER-59bc2aa3380b4f86b01344da42157a24",
-        "new_tab": true
-      }
-    },
-    "gif": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/Whitepaper.gif"
-  },
-
-  "roadmap": {
-    "title": "Roadmap",
-    "progress_icon": "https://boom-website.nyc3.cdn.digitaloceanspaces.com/gamepad.png"
   },
 
   "partners": {
