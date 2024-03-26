@@ -86,7 +86,7 @@
   "launcher": {
     "title": "Game launcher",
     "sub_title": "One-Stop Game Platform",
-    "text": "Shorten Web3 game development timelines from months to days. A suite of powerful tools including 1-click game uploads to smart contract canister, deploying test NFTs, deploying test tokens, configuring game smart contracts, and a discovery page for gamers to find web3 games to play.",
+    "text": "Shorten Web3 game development timelines from months to days. A suite of powerful tools including 1-click game uploads to smart contract canister, configuring game smart contracts, and a discovery page for gamers to find web3 games to play.",
     "button": {
       "text": "View Game Launcher",
       "link": "http://app.boomdao.xyz/",
